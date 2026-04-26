@@ -2,12 +2,32 @@
   "name": "My Personal Jingles",
   "entries": [
     {
+      "game": "example",
+      "file": "jingles/example.mp3"
+    },
+    {
       "game": "Super Mario Bros.",
       "file": "jingles/Super Mario Bros.wav"
     },
     {
-      "game": "Example Game 2",
-      "file": "jingles/example-game-2.mp3"
-    }
+      "game": "Super Mario Bros.: The Lost Levels",
+      "file": "jingles/Super Mario Bros The Lost Levels.mp3"
+    },
+    {
+      "game": "Super Mario Bros 2",
+      "file": "jingles/Super Mario Bros 2.mp3"
+    },
+    {
+      "game": "Super Mario Bros. 3",
+      "file": "jingles/Super Mario Bros 3.mp3"
+    },
+    {
+      "game": "The Legend of Zelda",
+      "file": "jingles/The Legend of Zelda.mp3"
+    },
+    {
+      "game": "Zelda 2: The Adventure of Link",
+      "file": "jingles/Zelda 2 The Adventure of Link.mp3"
+    },
   ]
 }
