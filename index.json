@@ -1,9 +1,9 @@
 {
-  "name": "Example Jingle Pack",
+  "name": "My Personal Jingles",
   "entries": [
     {
-      "game": "Example Game 1",
-      "file": "jingles/example-game-1.mp3"
+      "game": "Super Mario Bros.",
+      "file": "jingles/Super Mario Bros.wav"
     },
     {
       "game": "Example Game 2",
